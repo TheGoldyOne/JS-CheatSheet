@@ -1,7 +1,7 @@
 
 # JS Cheatsheet
 
-![JS Cheatsheet](./images/image.png)
+![JS Cheatsheet](image.png)
 
 ## Autorzy repozytorium
 
