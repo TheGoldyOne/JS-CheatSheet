@@ -18,7 +18,7 @@ const foo = function() {
 }
 ```
 
-> ^ to jest jakiś dziwny wytwór JavaScript'u ale też zadziała
+> ^ to jest jakiś dziwny wytwór JS ale też zadziała
 
 ```js
 const foo = () => {
@@ -55,5 +55,3 @@ const foo = (a, b) => {
 
 foo(1, 2) // zwróci 3
 ```
-
-> chyba czaisz co się dzieje?

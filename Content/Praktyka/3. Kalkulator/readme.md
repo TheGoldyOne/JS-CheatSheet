@@ -1,3 +1,8 @@
+# Kalkulator
+
+## Kod
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +11,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kalkulator</title>
 </head>
-<body>
+<body style="height: 100vh; display: grid; place-items: center;">
+<div>
     <label for="number1">Liczba 1:</label>
     <input type="number" name="number1" id="number1">
     <label for="number2">Liczba 2:</label>
@@ -37,5 +43,11 @@
             document.getElementById('wynik').innerHTML = "Wynik mnożenia: " + wynik;
         }
     </script>
+</div>
 </body>
 </html>
+```
+
+## Wynik
+
+![Zmiana koloru](./img.png)

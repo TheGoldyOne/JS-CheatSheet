@@ -51,4 +51,4 @@ for (let i = 1; i <= 5; i++) {
 console.log(foo) // 5
 ```
 
-> tym razem zadziałał bo var jest globalny
+> tym razem kod zadziałał bo `var` jest globalny
