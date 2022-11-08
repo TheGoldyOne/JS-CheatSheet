@@ -28,7 +28,7 @@ const foo = () => {
 
 > ^ A to są super nowoczesne funkcje strzałkowe wprowadzone w ES6 (chyba nie pamiętam i mnie to nie obchodzi)
 
-![meme](./2.png)
+![meme](./img.png)
 
 ```js
 const foo = () => {

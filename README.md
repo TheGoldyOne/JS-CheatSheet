@@ -8,6 +8,8 @@
 - [@TheGoldyOne](https://www.github.com/thegoldyone)
 - [@KaminskiDaniell](https://www.github.com/kaminskidaniell)
 
-## Źródło
+## Źródła
 
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Github Copilot](https://copilot.github.com/)
+- [w3schools.com](https://www.w3schools.com/js)

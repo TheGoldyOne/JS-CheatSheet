@@ -25,4 +25,4 @@ class HelloWorld {
 console.log("Hello, World!")
 ```
 
-![meme](./0.png)
+![meme](./img.png)
